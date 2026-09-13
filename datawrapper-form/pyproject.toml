@@ -1,0 +1,14 @@
+[project]
+name = "datawrapper-form"
+version = "0.1.0"
+description = "An end-to-end workflow for newsroom requesting DataWrapper graphics."
+requires-python = ">=3.11"
+dependencies = [
+    "pandas",
+    "pyarrow",
+    "ruff",
+    "pre-commit",
+    "streamlit>=1.59.1",
+    "python-dotenv>=1.2.2",
+    "pip-system-certs>=5.3",
+]

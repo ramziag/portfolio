@@ -1,0 +1,5 @@
+"""
+
+The sky was the color of television, tuned to a dead channel.
+
+"""
